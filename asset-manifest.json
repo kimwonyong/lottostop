@@ -1,13 +1,13 @@
 {
-  "main.js": "/lottostop/static/js/main.6a30cf40.chunk.js",
-  "main.js.map": "/lottostop/static/js/main.6a30cf40.chunk.js.map",
+  "main.js": "/lottostop/static/js/main.ca85c704.chunk.js",
+  "main.js.map": "/lottostop/static/js/main.ca85c704.chunk.js.map",
   "runtime~main.js": "/lottostop/static/js/runtime~main.0fd0d5ec.js",
   "runtime~main.js.map": "/lottostop/static/js/runtime~main.0fd0d5ec.js.map",
   "static/css/2.91562d4e.chunk.css": "/lottostop/static/css/2.91562d4e.chunk.css",
-  "static/js/2.9cfb9aec.chunk.js": "/lottostop/static/js/2.9cfb9aec.chunk.js",
-  "static/js/2.9cfb9aec.chunk.js.map": "/lottostop/static/js/2.9cfb9aec.chunk.js.map",
+  "static/js/2.c7486cac.chunk.js": "/lottostop/static/js/2.c7486cac.chunk.js",
+  "static/js/2.c7486cac.chunk.js.map": "/lottostop/static/js/2.c7486cac.chunk.js.map",
   "index.html": "/lottostop/index.html",
-  "precache-manifest.1b25dfafd35b6fc7e406bee8f6725b20.js": "/lottostop/precache-manifest.1b25dfafd35b6fc7e406bee8f6725b20.js",
+  "precache-manifest.ad3ebc00741edd259783b42259c117ba.js": "/lottostop/precache-manifest.ad3ebc00741edd259783b42259c117ba.js",
   "service-worker.js": "/lottostop/service-worker.js",
   "static/css/2.91562d4e.chunk.css.map": "/lottostop/static/css/2.91562d4e.chunk.css.map"
 }

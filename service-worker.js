@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/lottostop/precache-manifest.1b25dfafd35b6fc7e406bee8f6725b20.js"
+  "/lottostop/precache-manifest.ad3ebc00741edd259783b42259c117ba.js"
 );
 
 workbox.clientsClaim();
